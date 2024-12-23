@@ -1,0 +1,27 @@
+Rows :  11162
+Columns :  17
+
+Features : 
+ ['age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'day', 'month', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit']
+
+Missing values :  0
+
+Unique values : 
+ age            76
+job            12
+marital         3
+education       4
+default         2
+balance      3805
+housing         2
+loan            2
+contact         3
+day            31
+month          12
+duration     1428
+campaign       36
+pdays         472
+previous       34
+poutcome        4
+deposit         2
+dtype: int64

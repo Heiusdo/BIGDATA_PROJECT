@@ -1,0 +1,14 @@
+job
+management       2566
+blue-collar      1944
+technician       1823
+admin.           1334
+services          923
+retired           778
+self-employed     405
+student           360
+unemployed        357
+entrepreneur      328
+housemaid         274
+unknown            70
+Name: count, dtype: int64
